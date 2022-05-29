@@ -4,4 +4,4 @@ Simulador de dividendos pagados por empresas relacionadas a la bolsa de valores 
 
 Enlace: https://jose-pinzon.shinyapps.io/Simulador/
 
-PÁGINA AÚN EN CONSTRUCCIÓN.
+PÁGINA EN CONSTRUCCIÓN.
