@@ -1,7 +1,7 @@
 # Dashboard_Acciones
 
-Analisis basico del índice S&P500
-Seguimiento acciones representativas USA
-Creación de portafolio óptimo con acciones representativas de USA.
+Simulador de dividendos pagados por empresas relacionadas a la bolsa de valores Colombiana. En primer lugar se encuentra un grafico con el acumulado total de dividendos pagados y/o las fechas del pago de dividendos, en la parte inferior encontrará los registros y los datos con los cuales se realizó el gráfico. Dichos elementos pueden ser filtrados por empresa, sector, moneda entre otras características de los emisores.
 
-https://jose-pinzon.shinyapps.io/Dashboard_acciones/
+Enlace: https://jose-pinzon.shinyapps.io/Simulador/
+
+PÁGINA AÚN EN CONSTRUCCIÓN.
